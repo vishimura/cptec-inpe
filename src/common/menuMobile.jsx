@@ -13,9 +13,12 @@ const styles = {
     root: {
         width: '100%',
     },
-    menu:{
-        position: 'absolute',
-        bottom: 0
+    menu: {
+        position: 'fixed',
+        left: 0,
+        right: 0,
+        bottom: 0,
+        left: 0,
     }
 };
 
